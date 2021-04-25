@@ -1,0 +1,922 @@
+[
+  {
+    "categoryName": "Underwater",
+    "maps": [
+      {
+        "name": "Underwater da shell island",
+        "map": "https://image.ibb.co/knVVqJ/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/eFKC5T/red_subaquatico1a.png"
+      },
+      {
+        "name": "Underwater da shell island",
+        "map": "https://image.ibb.co/iziiAJ/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/j02X5T/red_subaquatico2a.png"
+      },
+      {
+        "name": "Underwater de Pewter - Respawn de Golduck",
+        "map": "https://image.ibb.co/hrpejd/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/dbnzkT/red_subaquatico3a.png"
+      },
+      {
+        "name": "Underwater nos Cubones de Saffron",
+        "map": "https://image.ibb.co/fwqVqJ/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/bCggzo/red_subaquatico4a.png"
+      },
+      {
+        "name": "Pewter Underwater - Respawn by Tentacruel",
+        "map": "https://image.ibb.co/bxQwVJ/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/mEJ5QT/red_subaquatico6a.png"
+      },
+      {
+        "name": "Underwater entre Saffron e Cerulean - Near the ancient respawn of Snorlax",
+        "map": "https://image.ibb.co/ddVkPd/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/bEzZKo/red_subaquatico5a.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Grass or forest",
+    "maps": [
+      {
+        "name": "Vermilion right, near the ladder to the bridge",
+        "map": "https://image.ibb.co/mAMLqJ/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/jxwyeo/red_grama1a_min.png"
+      },
+      {
+        "name": "Venomoth in the Cerulean marsh",
+        "map": "https://image.ibb.co/nATpjd/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/enW9kT/red_grama2a_min.png"
+      },
+      {
+        "name": "Coastline northwest of power plant",
+        "map": "https://image.ibb.co/bQhRVJ/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/e4Vfs8/red_grama3a_min.png"
+      },
+      {
+        "name": "Power Plant - Under the Bridge",
+        "map": "https://image.ibb.co/gopUjd/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/fFYYC8/red_grama4a_min.png"
+      },
+      {
+        "name": "Fuchsia swamp",
+        "map": "https://image.ibb.co/bw9Ujd/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/gJ3YC8/red_grama5a_min.png"
+      },
+      {
+        "name": "Small island next to the island of Lance",
+        "map": "https://image.ibb.co/kCU6VJ/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/fJsRX8/red_grama6a_min.png"
+      },
+      {
+        "name": "Charizard Valley",
+        "map": "https://image.ibb.co/hPGWxy/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/njStC8/red_grama7a_min.png"
+      },
+      {
+        "name": "Fearow de Saffron",
+        "map": "https://image.ibb.co/frZUjd/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/d1J0s8/red_grama8a_min.png"
+      },
+      {
+        "name": "Charizard Valley - Snorlax Respawn on the right",
+        "map": "https://image.ibb.co/g2nRVJ/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/kVb9kT/red_grama9a_min.png"
+      },
+      {
+        "name": "Fuchsia swamp to the right",
+        "map": "https://image.ibb.co/i619jd/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/jDDpkT/red_grama10a_min.png"
+      },
+      {
+        "name": "Lost island",
+        "map": "https://image.ibb.co/k3JBxy/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/m1KOC8/red_grama11a_min.png"
+      },
+      {
+        "name": "Wildwind island - Respawn de Snorlax",
+        "map": "https://image.ibb.co/gLJYAJ/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/hK63C8/red_grama12a_min.png"
+      },
+      {
+        "name": "Coastline southeast of Vermilion",
+        "map": "https://image.ibb.co/h7Odcy/Sem_T_tulo_13_min.png",
+        "location": "https://image.ibb.co/d5EZKo/red_grama13a_min.png"
+      },
+      {
+        "name": "Cerulean parasect cave",
+        "map": "https://image.ibb.co/iJNtAJ/Sem_T_tulo_14_min.png",
+        "location": "https://image.ibb.co/f9TGX8/red_grama14a_min.png"
+      },
+      {
+        "name": "Slowbro Cave in Cerulean",
+        "map": "https://image.ibb.co/nJL24d/Sem_T_tulo_15_min.png",
+        "location": "https://image.ibb.co/c53Teo/red_grama15a_min.png"
+      },
+      {
+        "name": "Parasect respawn in the Cerulean marsh",
+        "map": "https://image.ibb.co/mv5fqJ/Sem_T_tulo_16_min.png",
+        "location": "https://image.ibb.co/bzhzkT/red_grama16a_min.png"
+      },
+      {
+        "name": "Forest to the southeast of Cerulean",
+        "map": "https://image.ibb.co/mwrycy/Sem_T_tulo_17_min.png",
+        "location": "https://image.ibb.co/j3G3C8/red_grama17a_min.png"
+      },
+      {
+        "name": "Behind Hugh\\'s NPC Hut in Pewter",
+        "map": "https://image.ibb.co/d6wWxy/Sem_T_tulo_18_min.png",
+        "location": "https://image.ibb.co/hAv8eo/red_grama18a_min.png"
+      },
+      {
+        "name": "Mt.moon - Respawn de Igglybuff",
+        "map": "https://image.ibb.co/bCkfqJ/Sem_T_tulo_19_min.png",
+        "location": "https://image.ibb.co/jVakQT/red_grama19a_min.png"
+      },
+      {
+        "name": "Island next to the island of Kabutops",
+        "map": "https://image.ibb.co/jZ3YAJ/Sem_T_tulo_20_min.png",
+        "location": "https://image.ibb.co/errgzo/red_grama20a_min.png"
+      },
+      {
+        "name": "Aerodactyl Island",
+        "map": "https://image.ibb.co/ie5PHy/Sem_T_tulo_21_min.png",
+        "location": "https://image.ibb.co/jGgQQT/red_grama21a.png"
+      },
+      {
+        "name": "South of Pewter quest chest, from outside",
+        "map": "https://image.ibb.co/eCJ0qJ/Sem_T_tulo_22_min.png",
+        "location": "https://image.ibb.co/hh8Teo/red_grama22a.png"
+      },
+      {
+        "name": "Northeast Kabutops respawn island",
+        "map": "https://image.ibb.co/jytiAJ/Sem_T_tulo_23_min.png",
+        "location": "https://image.ibb.co/djUC5T/red_grama23a.png"
+      },
+      {
+        "name": "Lightstorm island - Near the right ladder",
+        "map": "https://image.ibb.co/dK9ejd/Sem_T_tulo_24_min.png",
+        "location": "https://image.ibb.co/kfOuKo/red_grama24a.png"
+      },
+      {
+        "name": "Lightstorm island - Near the right ladder",
+        "map": "https://image.ibb.co/m4QKjd/Sem_T_tulo_25_min.png",
+        "location": "https://image.ibb.co/eeGEKo/red_grama25a.png"
+      },
+      {
+        "name": "Plusle and Minum Island - Inside the mountain",
+        "map": "https://image.ibb.co/cazejd/Sem_T_tulo_26_min.png",
+        "location": "https://image.ibb.co/nusAs8/red_grama26a.png"
+      },
+      {
+        "name": "Respawn by Raichu on the island of Zapdos",
+        "map": "https://image.ibb.co/kNz1xy/Sem_T_tulo_27_min.png",
+        "location": "https://image.ibb.co/jhjOC8/red_grama27a.png"
+      },
+      {
+        "name": "Respawn de Jumpluff em Butwal",
+        "map": "https://image.ibb.co/b9pC4d/Sem_T_tulo_28_min.png",
+        "location": "https://image.ibb.co/h4pOC8/red_grama28a.png"
+      },
+      {
+        "name": "Snorlax respawn to the left of the Mandarin pokémon center",
+        "map": "https://image.ibb.co/bJ5kPd/Sem_T_tulo_29_min.png",
+        "location": "https://image.ibb.co/cYzOC8/red_grama29a.png"
+      },
+      {
+        "name": "Near the home of NPC Humberto - Kabuto island",
+        "map": "https://image.ibb.co/jAJ5Pd/Sem_T_tulo_30_min.png",
+        "location": "https://image.ibb.co/fmUekT/red_grama30a.png"
+      },
+      {
+        "name": "Tarroco island - South of downtown pokémon - Near the police house on the left",
+        "map": "https://image.ibb.co/by13AJ/Sem_T_tulo_31_min.png",
+        "location": "https://image.ibb.co/g4PZKo/red_grama31a.png"
+      },
+      {
+        "name": "Wigglytuff de Hamlin",
+        "map": "https://image.ibb.co/cZmQPd/Sem_T_tulo_32_min.png",
+        "location": "https://image.ibb.co/bwXMzo/red_grama32a.png"
+      },
+      {
+        "name": "Seven grapefruit islands",
+        "map": "https://image.ibb.co/h5OiAJ/Sem_T_tulo_33_min.png",
+        "location": "https://image.ibb.co/jozOC8/red_grama33a.png"
+      },
+      {
+        "name": "Respawn of Heracross in Murcutt - Northeast of the island",
+        "map": "https://image.ibb.co/h7vKjd/Sem_T_tulo_34_min.png",
+        "location": "https://image.ibb.co/ck91zo/red_grama34a.png"
+      },
+      {
+        "name": "Moltres Island - South West",
+        "map": "https://image.ibb.co/jB91xy/Sem_T_tulo_35_min.png",
+        "location": "https://image.ibb.co/eoq8eo/red_grama35a.png"
+      },
+      {
+        "name": "Respawn de Sunkern em Ascorbia",
+        "map": "https://image.ibb.co/ce41xy/Sem_T_tulo_36_min.png",
+        "location": "https://image.ibb.co/m9GEKo/red_grama36a.png"
+      },
+      {
+        "name": "Kinnow - Right Island",
+        "map": "https://image.ibb.co/kSrgxy/Sem_T_tulo_37_min.png",
+        "location": "https://image.ibb.co/ix8Teo/red_grama37a.png"
+      },
+      {
+        "name": "Respawn de Politoed em Mandarin",
+        "map": "https://image.ibb.co/dP0Kjd/Sem_T_tulo_38_min.png",
+        "location": "https://image.ibb.co/h4u1zo/red_grama38a.png"
+      },
+      {
+        "name": "Meowth Respawn in the center of Shamouti",
+        "map": "https://image.ibb.co/fazZHy/Sem_T_tulo_39_min.png",
+        "location": "https://image.ibb.co/bAj1zo/red_grama39a.png"
+      },
+      {
+        "name": "Pinkan island Rocket area",
+        "map": "https://image.ibb.co/dpaKjd/Sem_T_tulo_40_min.png",
+        "location": "https://image.ibb.co/bKzZKo/red_grama40a.png"
+      },
+      {
+        "name": "Seven grapefruit islands - Ilha do shiny Dodrio",
+        "map": "https://image.ibb.co/nqFKjd/Sem_T_tulo_41_min.png",
+        "location": "https://image.ibb.co/bC3uKo/red_grama41a.png"
+      },
+      {
+        "name": "Respawn de Smeargle em Shamouti",
+        "map": "https://image.ibb.co/ci08cy/Sem_T_tulo_42_min.png",
+        "location": "https://image.ibb.co/kqoiC8/red_grama42a.png"
+      },
+      {
+        "name": "Kinnow - Big Island",
+        "map": "https://image.ibb.co/eeWs4d/Sem_T_tulo_43_min.png",
+        "location": "https://image.ibb.co/bzws5T/red_grama43a.png"
+      },
+      {
+        "name": "Butwal - To the north of the entrance to the underwater",
+        "map": "https://image.ibb.co/g2LKjd/Sem_T_tulo_44_min.png",
+        "location": "https://image.ibb.co/jijZKo/red_grama44a.png"
+      },
+      {
+        "name": "Nidoking no Saffari",
+        "map": "https://image.ibb.co/mCWQPd/Sem_T_tulo_45_min.png",
+        "location": "https://image.ibb.co/g1UekT/red_grama45a.png"
+      },
+      {
+        "name": "Fearow de Pewter",
+        "map": "https://image.ibb.co/emXAqJ/Sem_T_tulo_46_min.png",
+        "location": "https://image.ibb.co/jOszkT/red_grama46a.png"
+      },
+      {
+        "name": "Respawn de Venusaur na Jungle Island",
+        "map": "https://image.ibb.co/grXAqJ/Sem_T_tulo_47_min.png",
+        "location": "https://image.ibb.co/hURQQT/red_grama47a.png"
+      },
+      {
+        "name": "Parasect de Pewter",
+        "map": "https://image.ibb.co/gokKjd/Sem_T_tulo_48_min.png",
+        "location": "https://image.ibb.co/fQDiC8/red_grama48a.png"
+      },
+      {
+        "name": "Murcott island",
+        "map": "https://i.ibb.co/R3XQWmH/mp-novo3.png",
+        "location": "https://i.ibb.co/0QsGpB7/mp-novo3-Murcottisland.png"
+      },
+      {
+        "name": "Leek island",
+        "map": "https://i.ibb.co/sK9y5DM/mp-novo8.png",
+        "location": "https://i.ibb.co/Nr8G8Zy/mp-novo8-leekisland.png"
+      },
+      {
+        "name": "Valencia island",
+        "map": "https://i.ibb.co/T25C3zy/mp-novo9.png",
+        "location": "https://i.ibb.co/W3mNbXX/mp-novo9-valenciaislandd.png"
+      },
+      {
+        "name": "Valencia island",
+        "map": "https://i.ibb.co/YkyTy13/mp-novo14.png",
+        "location": "https://i.ibb.co/CPD84vw/mp-novo14-valenciaisland2.png"
+      },
+      {
+        "name": "Leek island 2nd floor",
+        "map": "https://i.ibb.co/3N6ZvHJ/mp-novo15.png",
+        "location": "https://i.ibb.co/z5bwFKT/mp-novo15-leekisland2floor.png"
+      },
+      {
+        "name": "Leek island 3",
+        "map": "https://i.ibb.co/9r9vYF7/mp-novo17.png",
+        "location": "https://i.ibb.co/jLBHqP7/mp-novo17-leekisland3.png"
+      },
+      {
+        "name": "Pewter",
+        "map": "https://i.ibb.co/3Y5Vxfq/mp-novo18.png",
+        "location": "https://i.ibb.co/hg8Lh4R/mp-novo18-pewter.png"
+      },
+      {
+        "name": "Pewter - Left of the pokémon center, next to the NPC Hugh.",
+        "map": "https://i.ibb.co/T03zQxm/mp-novo19.png",
+        "location": "https://i.ibb.co/tBF0MT4/mp-novo19.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Earth",
+    "maps": [
+      {
+        "name": "Digglet cave de Vermilion",
+        "map": "https://image.ibb.co/iE0rxy/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/kCCh5T/red_terra1a.png"
+      },
+      {
+        "name": "Marowak de Cerulean",
+        "map": "https://image.ibb.co/dJTN4d/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/cD2h5T/red_terra2a.png"
+      },
+      {
+        "name": "Wildwind island - Respawn de Snorlax",
+        "map": "https://image.ibb.co/e8rLqJ/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/gUC4Ko/red_terra3a.png"
+      },
+      {
+        "name": "Raticate de Saffron",
+        "map": "https://image.ibb.co/fRnFPd/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/hdgLs8/red_terra4a.png"
+      },
+      {
+        "name": "Magmar de Cinnabar - Penultimate floor in the right corner",
+        "map": "https://image.ibb.co/i9bmVJ/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/gcjvQT/red_terra5a.png"
+      },
+      {
+        "name": "Charizard Valley - Persian Respawn from the Left",
+        "map": "https://image.ibb.co/fCuvPd/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/jWbLs8/red_terra6a.png"
+      },
+      {
+        "name": "Pewter sewage, right",
+        "map": "https://image.ibb.co/b6kPHy/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/m9NFQT/red_terra7a.png"
+      },
+      {
+        "name": "Underground of the lost island, southwest",
+        "map": "https://image.ibb.co/j6mLqJ/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/gfujKo/red_terra8a.png"
+      },
+      {
+        "name": "Pinsir Cave north of Viridian",
+        "map": "https://image.ibb.co/eE6LqJ/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/dNnh5T/red_terra9a.png"
+      },
+      {
+        "name": "Slowbro Respawn from hurricane island",
+        "map": "https://image.ibb.co/d5Rycy/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/dFq25T/red_terra10a.png"
+      },
+      {
+        "name": "Respawn de Persian do Charizard valley",
+        "map": "https://image.ibb.co/bATpjd/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/bC9vQT/red_terra11a.png"
+      },
+      {
+        "name": "Respawn de Cubone de Saffron",
+        "map": "https://image.ibb.co/cMgmVJ/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/cNNtC8/red_terra12a.png"
+      },
+      {
+        "name": "Arbok respawn in the subsoil of Fuchsia marsh",
+        "map": "https://image.ibb.co/dFTpjd/Sem_T_tulo_13_min.png",
+        "location": "https://image.ibb.co/jSW9kT/red_terra13a.png"
+      },
+      {
+        "name": "Digglett cave from the mt.moon, left",
+        "map": "https://image.ibb.co/d8W9jd/Sem_T_tulo_14_min.png",
+        "location": "https://image.ibb.co/cGBWzo/red_terra14a.png"
+      },
+      {
+        "name": "Cubones de Saffron",
+        "map": "https://image.ibb.co/eZA24d/Sem_T_tulo_15_min.png",
+        "location": "https://image.ibb.co/mea25T/red_terra15a.png"
+      },
+      {
+        "name": "Respawn of Pidgeotto southeast of Cerulean",
+        "map": "https://image.ibb.co/iRQDAJ/Sem_T_tulo_16_min.png",
+        "location": "https://image.ibb.co/ey7FQT/red_terra16a.png"
+      },
+      {
+        "name": "Diglett respawn from Mt.moon, entrance right",
+        "map": "https://image.ibb.co/cuWLqJ/Sem_T_tulo_17_min.png",
+        "location": "https://image.ibb.co/bXHFQT/red_terra17a.png"
+      },
+      {
+        "name": "Entrance of the saffari",
+        "map": "https://image.ibb.co/jsydcy/Sem_T_tulo_18_min.png",
+        "location": "https://image.ibb.co/niddeo/red_terra18a.png"
+      },
+      {
+        "name": "Weepinbell Respawn to the Southwest of Pewter",
+        "map": "https://image.ibb.co/gvGmVJ/Sem_T_tulo_19_min.png",
+        "location": "https://image.ibb.co/ed3YC8/red_terra19a.png"
+      },
+      {
+        "name": "Lightstorm island - Close to home with Electabuzz respawn",
+        "map": "https://image.ibb.co/hUPvPd/Sem_T_tulo_20_min.png",
+        "location": "https://image.ibb.co/i9tYC8/red_terra20a.png"
+      },
+      {
+        "name": "Respawn de Sandslash de Cerulean",
+        "map": "https://image.ibb.co/dcydcy/Sem_T_tulo_21_min.png",
+        "location": "https://image.ibb.co/kD7FQT/red_terra21a.png"
+      },
+      {
+        "name": "Vulpix Respawn between Saffron and Lavender",
+        "map": "https://image.ibb.co/bLZJcy/Sem_T_tulo_22_min.png",
+        "location": "https://image.ibb.co/d2odeo/red_terra22a.png"
+      },
+      {
+        "name": "Jungle island - Mountain to the south",
+        "map": "https://image.ibb.co/fLXRVJ/Sem_T_tulo_23_min.png",
+        "location": "https://image.ibb.co/gdj6X8/red_terra23a.png"
+      },
+      {
+        "name": "Jungle island - Respawn de Parasect",
+        "map": "https://image.ibb.co/fNAfqJ/Sem_T_tulo_24_min.png",
+        "location": "https://image.ibb.co/fraPKo/red_terra24a.png"
+      },
+      {
+        "name": "Diglett basement of Vermilion - Northwest",
+        "map": "https://image.ibb.co/cnt0qJ/Sem_T_tulo_25_min.png",
+        "location": "https://image.ibb.co/meRyeo/red_terra25a.png"
+      },
+      {
+        "name": "Shiny Stantler Island",
+        "map": "https://image.ibb.co/nLNFPd/Sem_T_tulo_26_min.png",
+        "location": "https://image.ibb.co/fXL25T/red_terra26a.png"
+      },
+      {
+        "name": "Lakeshore island",
+        "map": "https://image.ibb.co/cS0PHy/Sem_T_tulo_27_min.png",
+        "location": "https://image.ibb.co/iij6X8/red_terra27a.png"
+      },
+      {
+        "name": "Respawn de Camerupt em Ascorbia",
+        "map": "https://image.ibb.co/nzmycy/Sem_T_tulo_28_min.png",
+        "location": "https://image.ibb.co/hUrmX8/red_terra28a.png"
+      },
+      {
+        "name": "Cave with 3 Ursaring in Cleopatra",
+        "map": "https://image.ibb.co/fBaDAJ/Sem_T_tulo_29_min.png",
+        "location": "https://image.ibb.co/kgnRX8/red_terra29a.png"
+      },
+      {
+        "name": "Respawn de Togekiss em Cleopatra",
+        "map": "https://image.ibb.co/hOJBxy/Sem_T_tulo_30_min.png",
+        "location": "https://image.ibb.co/bL19kT/red_terra30a.png"
+      },
+      {
+        "name": "Magma island - Respawn of Quilava to the northwest of the Typhlosion",
+        "map": "https://image.ibb.co/jC6ycy/Sem_T_tulo_31_min.png",
+        "location": "https://image.ibb.co/hXwyeo/red_terra31a.png"
+      },
+      {
+        "name": "Moro island - Northeast of Pokémon Center",
+        "map": "https://image.ibb.co/ckLPHy/Sem_T_tulo_32_min.png",
+        "location": "https://image.ibb.co/fUFrzo/red_terra32a.png"
+      },
+      {
+        "name": "Cleopatra island - Respawn de Gliscor",
+        "map": "https://image.ibb.co/kFStAJ/Sem_T_tulo_33_min.png",
+        "location": "https://image.ibb.co/bWuvQT/red_terra33a.png"
+      },
+      {
+        "name": "Respawn of Crobat in Cleopatra - Top floor",
+        "map": "https://image.ibb.co/jjddcy/Sem_T_tulo_34_min.png",
+        "location": "https://image.ibb.co/mJ5PKo/red_terra34a.png"
+      },
+      {
+        "name": "Magma island - Respawn de Tyranitar",
+        "map": "https://image.ibb.co/cBtpjd/Sem_T_tulo_35_min.png",
+        "location": "https://image.ibb.co/mZJdeo/red_terra35a.png"
+      },
+      {
+        "name": "Magma island - Respawn de Magmar",
+        "map": "https://image.ibb.co/f1PJcy/Sem_T_tulo_36_min.png",
+        "location": "https://image.ibb.co/ecfDC8/red_terra36a.png"
+      },
+      {
+        "name": "Gastly at the Pewter Cemetery Gate",
+        "map": "https://image.ibb.co/fuTdcy/Sem_T_tulo_37_min.png",
+        "location": "https://image.ibb.co/iFDBzo/red_terra37a.png"
+      },
+      {
+        "name": "Digglett in the basement of Mt.Moon",
+        "map": "https://image.ibb.co/mhSFPd/Sem_T_tulo_38_min.png",
+        "location": "https://image.ibb.co/mEEvQT/red_terra38a.png"
+      },
+      {
+        "name": "Fairchild island",
+        "map": "https://i.ibb.co/rbXxrSR/mp-novo5.png",
+        "location": "https://i.ibb.co/LCWwf50/mp-novo5-fairchildisland.png"
+      },
+      {
+        "name": "Mt.Moon digletts -1",
+        "map": "https://i.ibb.co/PT3KFC5/mp-novo10.png",
+        "location": "https://i.ibb.co/80wjVv0/mp-novo10-mtmoon-digletts-1.png"
+      },
+      {
+        "name": "Fairchild island 3",
+        "map": "https://i.ibb.co/gDKtNLd/mp-novo16.png",
+        "location": "https://i.ibb.co/bBz6hXq/mp-novo16-fairchildisland3.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Sand",
+    "maps": [
+      {
+        "name": "Shell island",
+        "map": "https://image.ibb.co/d0i8Uo/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/mcJ8C8/red_areia1a_min.png"
+      },
+      {
+        "name": "Darklight Island / Unnamed Island (Near Desert Island)",
+        "map": "https://image.ibb.co/nEVBh8/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/jCeFs8/red_areia2a_min.png"
+      },
+      {
+        "name": "Tropical island - South part",
+        "map": "https://image.ibb.co/nmxDvT/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/iL21X8/red_areia3a_min.png"
+      },
+      {
+        "name": "Victreebell da green island",
+        "map": "https://image.ibb.co/bURTUo/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/k9qoC8/red_areia4a_min.png"
+      },
+      {
+        "name": "Green island - Exeggutor right",
+        "map": "https://image.ibb.co/mtU428/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/d5D8C8/red_areia5a_min.png"
+      },
+      {
+        "name": "Jungle island - Lake in the middle of the island",
+        "map": "https://image.ibb.co/jNWj28/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/bvp4kT/red_areia6a_min.png"
+      },
+      {
+        "name": "Shell island",
+        "map": "https://image.ibb.co/kAaoUo/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/foqYeo/red_areia7a_min.png"
+      },
+      {
+        "name": "Hurricane island - Right corner",
+        "map": "https://image.ibb.co/gZJ8Uo/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/fwLoC8/red_areia8a_min.png"
+      },
+      {
+        "name": "Tropical island - South part, below the Starmies",
+        "map": "https://image.ibb.co/iFOxN8/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/ky2eKo/red_areia9a_min.png"
+      },
+      {
+        "name": "Celadon - Respawn de Kingler",
+        "map": "https://image.ibb.co/nO4428/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/duQzKo/red_areia10a_min.png"
+      },
+      {
+        "name": "Tropical island - South",
+        "map": "https://image.ibb.co/i9Da9o/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/kOi8C8/red_areia11a_min.png"
+      },
+      {
+        "name": "Tropical island - Below the mountain in the Northeast",
+        "map": "https://image.ibb.co/h91TUo/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/m91QQT/red_areia12a_min.png"
+      },
+      {
+        "name": "Island the Minum and Plusle",
+        "map": "https://image.ibb.co/kzYxN8/Sem_T_tulo_13_min.png",
+        "location": "https://image.ibb.co/fNZOC8/red_areia13a_min.png"
+      },
+      {
+        "name": "Wildwind island - Center of the island to the south",
+        "map": "https://image.ibb.co/gd4bFT/Sem_T_tulo_14_min.png",
+        "location": "https://image.ibb.co/eaKC5T/red_areia14a_min.png"
+      },
+      {
+        "name": "Aipom de Mandarin",
+        "map": "https://image.ibb.co/eExJUo/Sem_T_tulo_15_min.png",
+        "location": "https://image.ibb.co/mZUC5T/red_areia15a_min.png"
+      },
+      {
+        "name": "Darklight Island / Unnamed Island (Near Desert Island)",
+        "map": "https://image.ibb.co/dxZyUo/Sem_T_tulo_16_min.png",
+        "location": "https://image.ibb.co/jCeFs8/red_areia2a_min.png"
+      },
+      {
+        "name": "Cleopatra island beach",
+        "map": "https://image.ibb.co/mp11h8/Sem_T_tulo_17_min.png",
+        "location": "https://image.ibb.co/bYPOC8/red_areia17a_min.png"
+      },
+      {
+        "name": "Beach near the Pokémon center of Kinnow",
+        "map": "https://image.ibb.co/gTDspo/Sem_T_tulo_18_min.png",
+        "location": "https://image.ibb.co/eGDuKo/red_areia18a_min.png"
+      },
+      {
+        "name": "Golden island",
+        "map": "https://image.ibb.co/kDk59o/Sem_T_tulo_19_min.png",
+        "location": "https://image.ibb.co/jZ7zkT/red_areia19a_min.png"
+      },
+      {
+        "name": "Pinkan island - Northeast corner",
+        "map": "https://image.ibb.co/inv59o/Sem_T_tulo_20_min.png",
+        "location": "https://image.ibb.co/bUnbX8/red_areia20a_min.png"
+      },
+      {
+        "name": "Kabuto island beach",
+        "map": "https://image.ibb.co/nQT3vT/Sem_T_tulo_21_min.png",
+        "location": "https://image.ibb.co/kbeZKo/red_areia21a_min.png"
+      },
+      {
+        "name": "Darklight island",
+        "map": "https://image.ibb.co/cdA59o/Sem_T_tulo_22_min.png",
+        "location": "https://image.ibb.co/c22zkT/red_areia22a_min.png"
+      },
+      {
+        "name": "Kinnow - Island on the left",
+        "map": "https://image.ibb.co/fbPXpo/Sem_T_tulo_23_min.png",
+        "location": "https://image.ibb.co/cnNMzo/red_areia23a_min.png"
+      },
+      {
+        "name": "Tarroco - Northwest corner",
+        "map": "https://image.ibb.co/kuKbFT/Sem_T_tulo_24_min.png",
+        "location": "https://image.ibb.co/mZZqs8/red_areia24a_min.png"
+      },
+      {
+        "name": "Kinnow - Ilha maior",
+        "map": "https://image.ibb.co/izLSN8/Sem_T_tulo_25_min.png",
+        "location": "https://image.ibb.co/dV0kQT/red_areia25a_min.png"
+      },
+      {
+        "name": "Shell Island - Squirtle e Wartortle",
+        "map": "https://image.ibb.co/mMjnN8/Sem_T_tulo_26_min.png",
+        "location": "https://image.ibb.co/i1qkQT/red_areia26a_min.png"
+      },
+      {
+        "name": "Respawn de Castform em Seafoam",
+        "map": "https://image.ibb.co/jB61h8/Sem_T_tulo_27_min.png",
+        "location": "https://image.ibb.co/cbZC5T/red_areia27a_min.png"
+      },
+      {
+        "name": "Wildwind Island",
+        "map": "https://image.ibb.co/dHw1h8/Sem_T_tulo_28_min.png",
+        "location": "https://image.ibb.co/eE3GX8/red_areia28a_min.png"
+      },
+      {
+        "name": "Kinnow island",
+        "map": "https://i.ibb.co/cN43BRF/mp-novo4.png",
+        "location": "https://i.ibb.co/0j6TNrT/mp-novo4-kinnowisland.png"
+      },
+      {
+        "name": "Valencia island",
+        "map": "https://i.ibb.co/1L0NpJq/mp-novo12.png",
+        "location": "https://i.ibb.co/9gMc6fL/mp-novo12-valenciaisland.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Rock",
+    "maps": [
+      {
+        "name": "Cinnabar - Large charmeleon respawn on the ground floor",
+        "map": "https://image.ibb.co/cmNtAJ/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/enfkQT/red_pedra1a_min.png"
+      },
+      {
+        "name": "Respawn of Snorlax near Saffron",
+        "map": "https://image.ibb.co/fiz6VJ/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/ddzOC8/red_pedra2a_min.png"
+      },
+      {
+        "name": "Pyramid of persians on desert island",
+        "map": "https://image.ibb.co/gvpJcy/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/dRqkQT/red_pedra3a_min.png"
+      },
+      {
+        "name": "Respawn of ninetales below the respawn of charizard to the south of the cp of Cinnabar",
+        "map": "https://image.ibb.co/jGDdcy/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/dwpqs8/red_pedra4a_min.png"
+      },
+      {
+        "name": "Tunnel between Vermilion and Saffron",
+        "map": "https://image.ibb.co/mDiN4d/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/i5EekT/red_pedra5a_min.png"
+      },
+      {
+        "name": "Shell island",
+        "map": "https://image.ibb.co/dWJBxy/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/kmJTeo/red_pedra6a_min.png"
+      },
+      {
+        "name": "Rock tunnel - Respawn de Golem/Rhydon",
+        "map": "https://image.ibb.co/dQ8pjd/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/hxKZKo/red_pedra7a_min.png"
+      },
+      {
+        "name": "Respawn of Golem / Rhydon southeast of Pewter, next to Paras",
+        "map": "https://image.ibb.co/nvAfqJ/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/jm7Mzo/red_pedra8a_min.png"
+      },
+      {
+        "name": "Seafoam - Right Island",
+        "map": "https://image.ibb.co/j6FPHy/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/ns5kQT/red_pedra9a_min.png"
+      },
+      {
+        "name": "Pewter quest",
+        "map": "https://image.ibb.co/bXYBxy/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/n0Z1zo/red_pedra10a_min.png"
+      },
+      {
+        "name": "Rock tunnel",
+        "map": "https://image.ibb.co/nitYAJ/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/iY0KkT/red_pedra11a_min.png"
+      },
+      {
+        "name": "Rock Runnel - Respawn de Graveler",
+        "map": "https://image.ibb.co/h7RmVJ/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/hmk8eo/red_pedra12a_min.png"
+      },
+      {
+        "name": "Underground cave of the Bill\\'s lighthouse",
+        "map": "https://image.ibb.co/nHraPd/Sem_T_tulo_13_min.png",
+        "location": "https://image.ibb.co/kVHMzo/red_pedra13a_min.png"
+      },
+      {
+        "name": "Last floor of mt.moon",
+        "map": "https://image.ibb.co/d23YAJ/Sem_T_tulo_14_min.png",
+        "location": "https://image.ibb.co/ehBEKo/red_pedra14a_min.png"
+      },
+      {
+        "name": "Cave with Geodude and Zubat in Ascorbia",
+        "map": "https://image.ibb.co/hZjUjd/Sem_T_tulo_15_min.png",
+        "location": "https://image.ibb.co/ceV8eo/red_pedra15a_min.png"
+      },
+      {
+        "name": "Moltres Island",
+        "map": "https://image.ibb.co/cBDdcy/Sem_T_tulo_16_min.png",
+        "location": "https://image.ibb.co/iz8uKo/red_pedra16a_min.png"
+      },
+      {
+        "name": "Power Plant - Road to Outland South",
+        "map": "https://image.ibb.co/bYP6VJ/Sem_T_tulo_17_min.png",
+        "location": "https://image.ibb.co/cT7oeo/red_pedra17a_min.png"
+      },
+      {
+        "name": "Fairchild island subsolo",
+        "map": "https://i.ibb.co/nCMxFRm/mp-novo7.png",
+        "location": "https://i.ibb.co/G5RGTDc/mp-novo7-fairchildisland-subsolo.png"
+      },
+      {
+        "name": "Fairchild island2",
+        "map": "https://i.ibb.co/XYJfmqs/mp-novo11.png",
+        "location": "https://i.ibb.co/gm2jgkf/mp-novo11-fairchildisland2.png"
+      },
+      {
+        "name": "Fairchild island 2",
+        "map": "https://i.ibb.co/PzfRFvZ/mp-novo13.png",
+        "location": "https://i.ibb.co/RBws2LH/mp-novo13-fairchildisland2.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Ice",
+    "maps": [
+      {
+        "name": "Camping site - seafoam",
+        "map": "https://image.ibb.co/ma6aPd/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/fGs4Ko/red_gelo1a_min.png"
+      },
+      {
+        "name": "Seafoam, respawn of quagsire, island of the right",
+        "map": "https://image.ibb.co/g6oBxy/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/bxOpkT/red_gelo2a_min.png"
+      },
+      {
+        "name": "Seafoam, smaller island on the left",
+        "map": "https://image.ibb.co/c7Odcy/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/j1BaQT/red_gelo3a_min.png"
+      },
+      {
+        "name": "Largest island of seafoam, unique respawn of dratini",
+        "map": "https://image.ibb.co/ck024d/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/gCCh5T/red_gelo4a_min.png"
+      },
+      {
+        "name": "Island of Articuno",
+        "map": "https://image.ibb.co/cJBmVJ/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/cjStC8/red_gelo5a_min.png"
+      },
+      {
+        "name": "Island of articuno, just after npc rank 5 and climb ladder",
+        "map": "https://image.ibb.co/j6MWxy/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/h3CtC8/red_gelo6a_min.png"
+      },
+      {
+        "name": "Glalie cave de seafoam",
+        "map": "https://image.ibb.co/nMoBxy/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/hS74Ko/red_gelo7a_min.png"
+      },
+      {
+        "name": "Biggest Island of Seafoam - Dragonpaw Respawn",
+        "map": "https://image.ibb.co/fech4d/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/iVc4Ko/red_gelo8a_min.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Others",
+    "maps": [
+      {
+        "name": "Lavender Cemetery - Gengar of the staircase - Near the portal of Emilia Quest",
+        "map": "https://image.ibb.co/iARycy/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/hzWaQT/red_outros1a.png"
+      },
+      {
+        "name": "Lost Island Cemetery",
+        "map": "https://image.ibb.co/hkn4Hy/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/i0T0s8/red_outros2a.png"
+      },
+      {
+        "name": "Lesser Pyramid of the desert island - Alakazam / Hypno Respawn of the ladder",
+        "map": "https://image.ibb.co/h2maPd/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/dGWyeo/red_outros3a.png"
+      },
+      {
+        "name": "Desert Island - Path to desert quest, site with Kadabra, Hypno and Alakazam",
+        "map": "https://image.ibb.co/hAKUjd/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/iZejKo/red_outros4a.png"
+      },
+      {
+        "name": "Desert island - Respawn de Hypno",
+        "map": "https://image.ibb.co/eimmVJ/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/gOFfs8/red_outros5a.png"
+      },
+      {
+        "name": "Lavender Cemetery",
+        "map": "https://image.ibb.co/k9LDAJ/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/npwLs8/red_outros6a.png"
+      },
+      {
+        "name": "Pewter Cemetery",
+        "map": "https://image.ibb.co/gBvfqJ/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/e7krzo/red_outros7a.png"
+      },
+      {
+        "name": "Desert island",
+        "map": "https://image.ibb.co/i7QPHy/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/jGAfs8/red_outros8a.png"
+      },
+      {
+        "name": "Respawn de Dark Abra da desert island",
+        "map": "https://image.ibb.co/n0gaPd/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/jY8Bzo/red_outros9a.png"
+      },
+      {
+        "name": "City abandoned to the left of Hamlin",
+        "map": "https://image.ibb.co/jJQfqJ/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/ghRaQT/red_outros10a.png"
+      },
+      {
+        "name": "Respawn de Unown em Mandarin",
+        "map": "https://image.ibb.co/fLz6VJ/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/gzdpkT/red_outros11a.png"
+      },
+      {
+        "name": "Rockets de Ascorbia",
+        "map": "https://image.ibb.co/htMycy/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/m83deo/red_outros12a.png"
+      },
+      {
+        "name": "Fight club de Shamouti",
+        "map": "https://image.ibb.co/kzJN4d/Sem_T_tulo_13_min.png",
+        "location": "https://image.ibb.co/cnArzo/red_outros13a.png"
+      },
+      {
+        "name": "Respawn de Unown em Mandarin",
+        "map": "https://image.ibb.co/bPx4Hy/Sem_T_tulo_14_min.png",
+        "location": "https://image.ibb.co/fV9UkT/red_outros14a.png"
+      },
+      {
+        "name": "Ship of the shiny Magneton",
+        "map": "https://image.ibb.co/bQiN4d/Sem_T_tulo_15_min.png",
+        "location": "https://image.ibb.co/g3LDC8/red_outros15a.png"
+      },
+      {
+        "name": "Moro Island - Ghost Ship",
+        "map": "https://image.ibb.co/cLHh4d/Sem_T_tulo_16_min.png",
+        "location": "https://image.ibb.co/ich4Ko/red_outros16a.png"
+      }
+    ]
+  }
+]
