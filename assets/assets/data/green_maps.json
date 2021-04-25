@@ -1,0 +1,432 @@
+[
+  {
+    "categoryName": "Underwater",
+    "maps": [
+      {
+        "name": "Ways to outland north",
+        "map": "https://i.ibb.co/D5ycJym/vd-subaquatico-1novo.png",
+        "location": "https://i.ibb.co/vYn4ygY/vd-subaquatico-1anovo.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Grass or forest",
+    "maps": [
+      {
+        "name": "Outland North - Elder Scyther/Pinsir",
+        "map": "https://image.ibb.co/cbekaT/ve_grama_1_min.png",
+        "location": "https://image.ibb.co/cgMmX8/ve_grama1a_min.jpg"
+      },
+      {
+        "name": "Outland North - Meganium",
+        "map": "https://image.ibb.co/hzxtUo/ve_grama2_min.png",
+        "location": "https://image.ibb.co/iczjKo/ve_grama2a_min.png"
+      },
+      {
+        "name": "Outland North - Elder Venusaur and Tangela - Near the Artifact",
+        "map": "https://image.ibb.co/iAw928/ve_grama3_min.png",
+        "location": "https://image.ibb.co/nGbLs8/ve_grama3a_min.jpg"
+      },
+      {
+        "name": "Outland East - Crobat",
+        "map": "https://image.ibb.co/iZrL9o/ve_grama4_min.png",
+        "location": "https://image.ibb.co/b91yeo/ve_grama4a_min.jpg"
+      },
+      {
+        "name": "Outland East - Elder Muk",
+        "map": "https://image.ibb.co/nnXhN8/ve_grama5_min.png",
+        "location": "https://image.ibb.co/mhK6X8/ve_grama5a_min.png"
+      },
+      {
+        "name": "Outland South - Skarmory - Near Elder Pidgeot",
+        "map": "https://image.ibb.co/h3tTvT/ve_grama6_min.png",
+        "location": "https://image.ibb.co/nRipkT/ve_grama6a_min.png"
+      },
+      {
+        "name": "Outland South - Pidgeot - Right side near the Skarmory",
+        "map": "https://image.ibb.co/cZb3Uo/ve_grama7_min.png",
+        "location": "https://image.ibb.co/dB0PKo/ve_grama7a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Ludicolo",
+        "map": "https://image.ibb.co/dTO6h8/ve_grama8_min.png",
+        "location": "https://image.ibb.co/d5q25T/ve_grama8a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Zangoose",
+        "map": "https://image.ibb.co/fYcovT/ve_grama9_min.png",
+        "location": "https://image.ibb.co/n6jjKo/ve_grama9a_min.png"
+      },
+      {
+        "name": "Orre - Respawn of Granbull - Left side",
+        "map": "https://image.ibb.co/chuCN8/ve_grama10_min.png",
+        "location": "https://image.ibb.co/eHNtC8/ve_grama10a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Seviper",
+        "map": "https://image.ibb.co/j2UOUo/ve_grama11_min.png",
+        "location": "https://image.ibb.co/kzB9kT/ve_grama11a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Seedot",
+        "map": "https://image.ibb.co/dkAV9o/ve_grama12_min.png",
+        "location": "https://image.ibb.co/jUADC8/ve_grama12a_min.png"
+      },
+      {
+        "name": "Orre - Respawn of Manectric - Near the house to the north",
+        "map": "https://image.ibb.co/hXDiUo/ve_grama13_min.png",
+        "location": "https://image.ibb.co/j4hRX8/ve_grama13a_min.png"
+      },
+      {
+        "name": "Outland South - Snorlax and Ursaring, Near Artifact",
+        "map": "https://image.ibb.co/dw3Hpo/ve_grama14_min.png",
+        "location": "https://image.ibb.co/ckR9kT/ve_grama14a_min.png"
+      },
+      {
+        "name": "Outland South - Elder Pidgeot - Near Artifact",
+        "map": "https://image.ibb.co/nhHMFT/ve_grama15_min.png",
+        "location": "https://image.ibb.co/gYKJeo/ve_grama15a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Toxicroak",
+        "map": "https://image.ibb.co/gShA9o/ve_grama16_min.png",
+        "location": "https://image.ibb.co/mWAfs8/ve_grama16a_min.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "Earth",
+    "maps": [
+      {
+        "name": "Outland North - Scyther",
+        "map": "https://image.ibb.co/b3OYUo/ve_lama_1_min.png",
+        "location": "https://image.ibb.co/fDQukT/ve_lama1a_min.png"
+      },
+      {
+        "name": "Outland North - Elder Venusaur and Tangela - Near the Artifact",
+        "map": "https://image.ibb.co/mUArFT/ve_lama2_min.png",
+        "location": "https://image.ibb.co/dRELQT/ve_lama2a_min.png"
+      },
+      {
+        "name": "Outland East - Gengar - North West",
+        "map": "https://image.ibb.co/hs9U28/ve_lama3_min.png",
+        "location": "https://image.ibb.co/cHZyC8/ve_lama3a_min.png"
+      },
+      {
+        "name": "Outland South - Charizard",
+        "map": "https://image.ibb.co/nurL9o/ve_lama4_min.png",
+        "location": "https://image.ibb.co/kHjyC8/ve_lama4a_min.png"
+      },
+      {
+        "name": "Outland South - Miltank - Home of the Respawn",
+        "map": "https://image.ibb.co/g8FDUo/ve_lama5_min.png",
+        "location": "https://image.ibb.co/gR1Oeo/ve_lama5a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Torkoal",
+        "map": "https://image.ibb.co/muW928/ve_lama6_min.png",
+        "location": "https://image.ibb.co/iOJQs8/ve_lama6a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Exploud",
+        "map": "https://image.ibb.co/hL1npo/ve_lama7_min.png",
+        "location": "https://image.ibb.co/idnwzo/ve_lama7a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Slakoth",
+        "map": "https://image.ibb.co/i75rFT/ve_lama8_min.png",
+        "location": "https://image.ibb.co/hkKn5T/ve_lama8a_min.png"
+      },
+      {
+        "name": "Orre - Respawn of Medicham - Northeast Corner",
+        "map": "https://image.ibb.co/hyPU28/ve_lama9_min.png",
+        "location": "https://image.ibb.co/df1BX8/ve_lama9a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Toxicroak",
+        "map": "https://image.ibb.co/nFXGh8/ve_lama10_min.png",
+        "location": "https://image.ibb.co/bWMpKo/ve_lama10a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Sceptile",
+        "map": "https://image.ibb.co/mji09o/ve_lama11_min.png",
+        "location": "https://image.ibb.co/m36Oeo/ve_lama11a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Claydol",
+        "map": "https://image.ibb.co/mFM928/ve_lama12_min.png",
+        "location": "https://image.ibb.co/h5gpKo/ve_lama12a_min.png"
+      },
+      {
+        "name": "Outland Earth - Elder Marowaks Before The Artifact",
+        "map": "https://i.ibb.co/FmZpp2r/ve-lama13-min.png",
+        "location": "https://i.ibb.co/0s19wFq/ve-lama13a-min.png"
+      },
+      {
+        "name": "Outland fire - charizard (Floor +1)",
+        "map": "https://i.ibb.co/dPLtNPD/ve-lama14a-min.png",
+        "location": "https://i.ibb.co/mT5B87D/outland-fire-charizard-Floor-1.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Sand",
+    "maps": [
+      {
+        "name": "Outland North - Gyarados and Mantine - Left.",
+        "map": "https://image.ibb.co/nsJmFT/Sem_T_tulo1_min.png",
+        "location": "https://image.ibb.co/jnFwX8/ve_areia1a_min.png"
+      },
+      {
+        "name": "Outland North - Elder Blastoise and Tentacruel - After the Artifact",
+        "map": "https://image.ibb.co/hrbv9o/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/gU8uKo/ve_areia2a_min.png"
+      },
+      {
+        "name": "Outland North - Girafarig - Left side of the pyramid",
+        "map": "https://image.ibb.co/jotxN8/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/hQgEKo/ve_areia3a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Baltoy",
+        "map": "https://image.ibb.co/dXJmFT/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/d4yiC8/ve_areia4a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Vibrava",
+        "map": "https://image.ibb.co/d2CDvT/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/bs13C8/ve_areia5a_min.png"
+      },
+      {
+        "name": "Orre - Respawn by Swampert - Coming Soon",
+        "map": "https://image.ibb.co/m1Srh8/Sem_T_tulo_6_min.png",
+        "location": "http://www.tripod.com.br/embreve.jpg"
+      },
+      {
+        "name": "Orre - Respawn de Flygon",
+        "map": "https://image.ibb.co/hBjF9o/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/k97zkT/ve-areia7a-min.png"
+      },
+      {
+        "name": "Orre - Respawn de Tropius",
+        "map": "https://image.ibb.co/g24tvT/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/fd6s5T/ve_areia8a_min.png"
+      },
+      {
+        "name": "Orre - Dusclops Respawn - Near the Banpa respawn entrance",
+        "map": "https://image.ibb.co/mgcrh8/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/fv4OC8/ve_areia9a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Swampert",
+        "map": "https://image.ibb.co/jtNfaT/Sem_T_tulo_10_min.png",
+        "location": "https://image.ibb.co/fo8iC8/ve_areia10a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Sableye",
+        "map": "https://image.ibb.co/e1vNpo/Sem_T_tulo_11_min.png",
+        "location": "https://image.ibb.co/bTHzkT/ve_areia11a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Nuzleaf",
+        "map": "https://image.ibb.co/eYLoUo/Sem_T_tulo_12_min.png",
+        "location": "https://image.ibb.co/kEkkQT/ve_areia12a_min.png"
+      },
+      {
+        "name": "Outland Water - Near the NPC Artifact Seavell King",
+        "map": "https://image.ibb.co/fNwNkp/wLUwke9.png",
+        "location": "https://image.ibb.co/jkxsJ9/AcWIFQ8.png"
+      },
+      {
+        "name": "Phenac - Bronzors e Brozongs (Floor -1)",
+        "map": "https://i.ibb.co/87X1jTX/Sem-T-tulo-1.png",
+        "location": "https://i.ibb.co/h8fyjtT/verde-areia-14.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Rock",
+    "maps": [
+      {
+        "name": "Outland North - Blastoise/Feraligatr",
+        "map": "https://image.ibb.co/kBuRFT/ve_cinza1_min.png",
+        "location": "https://image.ibb.co/hR525T/ve_cinza1a_min.png"
+      },
+      {
+        "name": "Outland East - Gengar",
+        "map": "https://image.ibb.co/kA88Uo/ve_cinza2_min.png",
+        "location": "https://image.ibb.co/hnjvQT/ve_cinza2a_min.png"
+      },
+      {
+        "name": "Outland East - Shortly before the Fire artifact, in the Elder Arcanine",
+        "map": "https://image.ibb.co/k4ymFT/ve_cinza3_min.png",
+        "location": "https://image.ibb.co/mfXh5T/ve_cinza3a_min.png"
+      },
+      {
+        "name": "Outland East - Next to the NPC below on the way to the outland portal",
+        "map": "https://image.ibb.co/dcCDvT/ve_cinza4_min.png",
+        "location": "https://image.ibb.co/jectC8/ve_cinza4a_min.png"
+      },
+      {
+        "name": "Outland East - Elder Tyranitar",
+        "map": "https://image.ibb.co/fgRv9o/ve_cinza5_min.png",
+        "location": "https://image.ibb.co/gZOBzo/ve_cinza5a_min.png"
+      },
+      {
+        "name": "Outland East - Junto al NPC de arriba en el camino hacia el portal de la outland",
+        "map": "https://image.ibb.co/fTV0aT/ve_cinza6_min.png",
+        "location": "https://image.ibb.co/gN2RX8/ve_cinza6a_min.png"
+      },
+      {
+        "name": "Outland East - Arcanine",
+        "map": "https://image.ibb.co/kbB6FT/ve_cinza7_min.png",
+        "location": "https://image.ibb.co/iZz6X8/ve_cinza7a_min.png"
+      },
+      {
+        "name": "Outland South - Clefable",
+        "map": "https://image.ibb.co/kW3mFT/ve_cinza8_min.png",
+        "location": "https://image.ibb.co/cubyeo/ve_cinza8a_min.png"
+      },
+      {
+        "name": "Outland South - Passage between the respawns of Dragonair and Pidgeot",
+        "map": "https://image.ibb.co/ih4tvT/ve_cinza10_min.png",
+        "location": "https://image.ibb.co/g9025T/ve_cinza10a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Hariyama",
+        "map": "https://image.ibb.co/e7nDvT/ve_cinza11_min.png",
+        "location": "https://image.ibb.co/hCGLs8/ve_cinza11a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Aggron",
+        "map": "https://image.ibb.co/fXR6FT/ve_cinza12_min.png",
+        "location": "https://image.ibb.co/nFWmX8/ve_cinza12a_min.png"
+      },
+      {
+        "name": "Orre - Next to DCM NPC of lvl 250+ (South of Blaziken Respawn)",
+        "map": "https://image.ibb.co/joe428/ve_cinza13_min.png",
+        "location": "https://image.ibb.co/ddarzo/ve_cinza13a_min.png"
+      },
+      {
+        "name": "Outland South - Arcanine",
+        "map": "https://i.ibb.co/2P9858C/ve-cinza14.png",
+        "location": "https://i.ibb.co/L5hDyD9/ve-cinza14.png"
+      },
+      {
+        "name": "Pewter - Andar de cima dos paras resp de golem.",
+        "map": "https://i.ibb.co/pP3Trq5/ve-cinza15.png",
+        "location": "https://i.ibb.co/mT5B87D/outland-fire-charizard-Floor-1.png"
+      },
+      {
+        "name": "Outland fire artefato",
+        "map": "https://i.ibb.co/y6GvC06/mp-novo1.png",
+        "location": "https://i.ibb.co/5K7LVQV/mp-novo1-outland-fire-artefato.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Ice",
+    "maps": [
+      {
+        "name": "Outland South, Elder Dragonite, Path to the artifact",
+        "map": "https://image.ibb.co/gjhVaT/Sem_T_tulo_1_min.png",
+        "location": "https://image.ibb.co/jJ35QT/ve_gelo1a_min.png"
+      },
+      {
+        "name": "Outland South, Piloswine Ground floor, left side and near the sea",
+        "map": "https://image.ibb.co/ddk59o/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/iwLKkT/ve_gelo2a_min.png"
+      },
+      {
+        "name": "Outland South, Elder Jynx",
+        "map": "https://image.ibb.co/dJsVaT/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/e3EC5T/ve_gelo3a_min.png"
+      },
+      {
+        "name": "Outland South, Jynx respawn. Right at the beginning, the left",
+        "map": "https://image.ibb.co/mQq59o/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/fuEOC8/ve_gelo4a_min.png"
+      },
+      {
+        "name": "Orre, respawn de Frosslass",
+        "map": "https://image.ibb.co/hf7k9o/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/jeYuKo/ve_gelo5a_min.jpg"
+      },
+      {
+        "name": "Orre, respawn de Shelgon",
+        "map": "https://image.ibb.co/dCY3vT/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/bYwgzo/ve_gelo6a_min.png"
+      },
+      {
+        "name": "Orre, respawn de Glalie",
+        "map": "https://image.ibb.co/b29yUo/Sem_T_tulo_7_min.png",
+        "location": "https://image.ibb.co/k4jqs8/ve_gelo7a_min.png"
+      },
+      {
+        "name": "Orre, respawn of Walrein (lower right corner)",
+        "map": "https://image.ibb.co/f277N8/Sem_T_tulo_8_min.png",
+        "location": "https://image.ibb.co/ekxzkT/ve_gelo8a_min.png"
+      },
+      {
+        "name": "Orre, respawn of Swellow (North)",
+        "map": "https://image.ibb.co/icDgh8/Sem_T_tulo_9_min.png",
+        "location": "https://image.ibb.co/eAQkQT/ve_gelo9a_min.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "Others",
+    "maps": [
+      {
+        "name": "Outland North - Elder Alakazam - Use light before digging",
+        "map": "https://i.ibb.co/yNzGzHX/piramide.png",
+        "location": "https://image.ibb.co/etAc5T/ve_outros1a_min.png"
+      },
+      {
+        "name": "Outland North - Elder Alakazam - Artifact Room",
+        "map": "https://image.ibb.co/frnXN8/Sem_T_tulo_2_min.png",
+        "location": "https://image.ibb.co/mLvAQT/ve_outros2a_min.png"
+      },
+      {
+        "name": "Outland East - Outland Fight",
+        "map": "https://image.ibb.co/mAVxpo/Sem_T_tulo_3_min.png",
+        "location": "https://image.ibb.co/m62qQT/ve_outros3a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Metang",
+        "map": "https://image.ibb.co/ejWgFT/Sem_T_tulo_4_min.png",
+        "location": "https://image.ibb.co/czymzo/ve_outros4a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Mawile",
+        "map": "https://image.ibb.co/cxFV9o/Sem_T_tulo_5_min.png",
+        "location": "https://image.ibb.co/dAx1X8/ve_outros5a_min.png"
+      },
+      {
+        "name": "Orre - Respawn de Banette",
+        "map": "https://image.ibb.co/my9CN8/Sem_T_tulo_6_min.png",
+        "location": "https://image.ibb.co/iMz4kT/ve_outros6a_min.png"
+      },
+      {
+        "name": "Outland Electric - After the Artifact (Floor -2)",
+        "map": "https://i.ibb.co/8gTz08b/metal6.png",
+        "location": "https://i.ibb.co/8DfGYBZ/metal-6.png"
+      },
+      {
+        "name": "Outland Psy - Master Alakazams Near the Artifact (Floor +1)",
+        "map": "https://i.ibb.co/TTN6h8h/homens-novo.png",
+        "location": "https://i.ibb.co/TRD2QpP/homens-novo-1.png"
+      },
+      {
+        "name": "Phenac - Altarias",
+        "map": "https://i.ibb.co/6NFn0Jy/homens-novo2.png",
+        "location": "https://i.ibb.co/YhFHdT8/homens-novo2-1.png"
+      },
+      {
+        "name": "Outland East - Outland Fight",
+        "map": "https://i.ibb.co/5hZMP2w/mp-novo2.png",
+        "location": "https://i.ibb.co/Bq7RCWf/mp-novo2-outlandfightt.png"
+      }
+    ]
+  }
+]
